@@ -1,6 +1,6 @@
 ### Tic Tac Toe - Server
 
-The server side code for the [Multiplayer Tic Tac Toe](https://multiplayer-tic-tac-toe-d4a70.firebaseapp.com/)
+The server side code for the [Multiplayer Tic Tac Toe](https://github.com/guilhermehto/tic-tac-toe-client)
 
 Developed using:
 
